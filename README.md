@@ -12,6 +12,13 @@ arguments would equally apply to _any_ use of squashed migrations.
 
 I believe in `squashmigrations`, so let's just "squash all the things"!
 
+### Usage
+
+```
+pip install squashed-users
+# migrate as usual
+```
+
 ### How it's made
 
 On Django 4.2, the following was run:
