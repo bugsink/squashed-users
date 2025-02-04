@@ -31,6 +31,9 @@ The comments in the generated file were followed (copying RunMigration code over
 
 Then, the file was moved from my virtualenv to this package.
 
+(No django.contrib.auth migrations have been made between Django 4.2 and 5.2, so this works for any supported Django
+version)
+
 ### A Magic Wheel A.K.A. package-level Monkey-patching
 
 `django/contrib/auth/migrations/0001_squashed_0012_alter_user_first_name_max_length.py` is the only file in this
