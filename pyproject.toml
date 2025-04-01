@@ -10,7 +10,7 @@ authors = [
 description = "django.contrib.auth migrations squashed into a single migration"
 readme = "README.md"
 requires-python = ">=3.9"
-license = {file = "LICENSE"}
+license = "BSD-3-Clause"
 classifiers = [
     "Programming Language :: Python :: 3",
 ]
